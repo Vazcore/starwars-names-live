@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names-lib",
+  "version": "1.0.0",
+  "description": "Get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vazcore/starwars-names-live.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "'Aliaksei Habruseu <'alexgabrusev@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vazcore/starwars-names-live/issues"
+  },
+  "homepage": "https://github.com/Vazcore/starwars-names-live#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
